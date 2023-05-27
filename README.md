@@ -3,4 +3,4 @@ Most of my portfolio projects were done while studying at Mission Ready, includi
 - ReactJS, NodeJS & a variety of open sourced frameworks.
 - 👥Team collaboration.
 - Automated deployment & hosting web applications.
-- Testing procedures during api development and 📦containerize web applications.
+- Testing procedures during api development and 📦containerized web applications.

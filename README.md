@@ -1,4 +1,4 @@
-Most of my portfolio projects were done while studying at Mission Ready, including my own side projects, showcasing my skills in:
+my projects were undertaken whilst studying at Mission Ready & freelancing, they showcase my skills such as:
 
 - ReactJS, NodeJS & a variety of open sourced frameworks.
 - 👥Team collaboration.
